@@ -1,0 +1,6 @@
+{
+  "name": "KALANLA",
+  "description": "Kitchen OS // Rynia — Ne kaldıysa, ondan başla. Rynia Swiss Minimalist sıfır atık mutfak radarı, şef kurtarma reçeteleri ve termal tasarruf fişi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
